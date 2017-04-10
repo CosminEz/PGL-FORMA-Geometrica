@@ -13,7 +13,7 @@ public class Romb implements Forma{
 
     @Override
     public double Arie(double X, double Y) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        return X*X*X;
     }
 
     @Override
