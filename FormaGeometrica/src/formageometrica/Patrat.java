@@ -13,12 +13,12 @@ public class Patrat implements Forma{
 
     @Override
     public double Arie(double X, double Y) {
-        
+        return X*X; // committed by Filote Cosmin
     }
 
     @Override
     public double Perimetru(double X, double Y) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        return 4*X;  // committed by Filote Cosmin
     }
     
 }
