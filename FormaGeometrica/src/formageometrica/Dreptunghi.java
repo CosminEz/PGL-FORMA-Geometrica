@@ -19,7 +19,7 @@ public class Dreptunghi implements Forma{
 
     @Override
     public double Perimetru(double X, double Y) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        return 2*X;
     }
     
 }
