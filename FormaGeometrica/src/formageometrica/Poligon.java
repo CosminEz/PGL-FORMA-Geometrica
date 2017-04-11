@@ -21,5 +21,9 @@ public class Poligon implements Forma{
     public double Perimetru(double X, double Y) {
         return 2*X + 2* Y;
     }
-    
+    public Double Volum(){
+        Double volum=new Double(0.0);
+        System.out.println(volum);
+        return volum;
+    }
 }
