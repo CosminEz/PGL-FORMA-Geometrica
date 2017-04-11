@@ -20,5 +20,10 @@ public class Patrat implements Forma{
     public double Perimetru(double X, double Y) {
         return 4*X;  // committed by Filote Cosmin
     }
+
+    @Override
+    public double Volum(double X, double Y, double Z) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
 }

@@ -26,4 +26,9 @@ public class Poligon implements Forma{
         System.out.println(volum);
         return volum;
     }
+
+    @Override
+    public double Volum(double X, double Y, double Z) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 }

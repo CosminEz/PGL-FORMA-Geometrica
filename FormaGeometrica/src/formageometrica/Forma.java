@@ -12,5 +12,6 @@ package formageometrica;
 public interface Forma {
     double Arie(double X,double Y);
     double Perimetru(double X,double Y);
+    double Volum(double X,double Y,double Z);
     
 }

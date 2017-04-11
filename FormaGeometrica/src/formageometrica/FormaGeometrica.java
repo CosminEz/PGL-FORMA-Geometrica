@@ -16,6 +16,9 @@ public class FormaGeometrica {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Dreptunghi D1=new Dreptunghi(4,5);
+        System.out.println(D1.Arie1());
+        System.out.println(new Dreptunghi(5,6).Arie1());
     }
     
 }

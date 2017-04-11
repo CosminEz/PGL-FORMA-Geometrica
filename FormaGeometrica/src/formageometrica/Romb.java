@@ -20,5 +20,10 @@ public class Romb implements Forma{
     public double Perimetru(double X, double Y) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
+
+    @Override
+    public double Volum(double X, double Y, double Z) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
 }
